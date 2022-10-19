@@ -1,0 +1,89 @@
+C++ Programming: From Problem Analysis to Program Design
+5-17-525281-3
+ABC
+2000
+52.50
+20
+1
+Malik, D.S.
+1
+Paperback
+2000
+Fuzzy Discrete Structures
+3-7908-1335-4
+Physica-Verlag
+2000
+89.00
+10
+2
+Malik, Davender
+Mordeson, John
+2
+Hardback
+Digital
+3000
+Fuzzy Mathematics in Medicine
+3-7908-1325-7
+Physica-Verlag
+2000
+89.00
+10
+3
+Mordeson, John
+Malik, Davender
+Cheng, Shih-Chung
+3
+Hardback
+Paperback
+Digital
+3000
+Harry John and The Magician
+0-239-23635-0
+McArthur A. Devine Books
+1999
+19.95
+10
+3
+Goof, Goofy
+Pluto, Peter
+Head, Mark
+1
+Digital
+120
+Dynamic InterWeb Programming
+22-99521-453-1
+GNet
+1998
+39.99
+25
+1
+Smith, Phelix
+2
+Hardback
+Digital
+2500
+The Passage
+978-0-345-50496-8
+Ballantine Books
+2010
+17.78
+30
+1
+Cronin, Justin
+3
+Hardback
+Paperback
+Digital
+800
+Moby-Dick
+978-1509826643
+Macmillan Collector's Library; Reissue edition
+2016
+14.99
+0
+1
+Melville, Herman
+2
+Hardback
+Paperback
+378
