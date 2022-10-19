@@ -6,7 +6,7 @@ Input File:  bookData3.txt
 
 How to run the program:
 
-                         Select Build and Run
+                         Select Build and Run in main.cpp
 
                          All possible prompts:
 
@@ -34,4 +34,4 @@ How to run the program:
 
                           - Note: If errors are made, program will inform user on how to fix said errors.
 
-Prior to running the program, please make sure that the project file, client file (main.cpp), implementation files (bookTypeImp.cpp and exbookType.h), header files (bookType.h, exbookType.h, and bookStore.h), and library file (bookData3.txt) are extracted from the zip file (morgan-pa3-210.zip) and placed in the same directory/folder. 
+Prior to running the program, please make sure that the client file (main.cpp), implementation files (bookTypeImp.cpp and exbookType.h), header files (bookType.h, exbookType.h, and bookStore.h), and library file (bookData3.txt) are extracted from the zip file (morgan-pa3-210.zip) and placed in the same directory/folder. 
