@@ -30,7 +30,7 @@ How to run the program:
                              - ISBN (ex. 978-0-567-55555-9)
                              - author name (ex. Morgan, Alysha or Morgan, Alysha R.)
 
-                          - When the program asks for a number of books enter a valid integer (an integer that is greater than 0 or an integer that does not cause the                             stock to fall below zero)
+                          - When the program asks for a number of books enter a valid integer (an integer that is greater than 0 or an integer that does not cause the stock to fall below zero)
 
                           - Note: If errors are made, program will inform user on how to fix said errors.
 
